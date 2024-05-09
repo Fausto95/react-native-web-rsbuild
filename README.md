@@ -19,4 +19,4 @@ This is a simple example of a React Native Web project that uses RsBuild to buil
 
 ### TODO
 
-- [ ] Fix `react-native` compilation errors from `lib/design-system` package
+- [x] Fix `react-native` compilation errors from `lib/design-system` package
