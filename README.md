@@ -17,6 +17,6 @@ This is a simple example of a React Native Web project that uses RsBuild to buil
 3. Run `pnpm start` in the root folder
 4. Open `http://localhost:3000` in your browser
 
-### Still Todo
+### TODO
 
-- [ ] Fix `react-native` compilation errors from 'lib/design-system' package
+- [ ] Fix `react-native` compilation errors from `lib/design-system` package
