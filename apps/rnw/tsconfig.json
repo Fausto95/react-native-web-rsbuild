@@ -1,1 +1,8 @@
-{}
+{
+  "compilerOptions": {
+    "paths": {
+      "rn-core": ["../../libs/core"],
+      "rn-design-system": ["../../libs/design-system"]
+    }
+  }
+}
