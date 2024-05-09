@@ -1,0 +1,12 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "RNW + RSBuild + PNPM Workspace",
+  "main": "src/index.ts",
+  "dependencies": {},
+  "devDependencies": {},
+
+  "scripts": {
+    "start": "pnpm run --filter  rnw-rsbuild start"
+  }
+}

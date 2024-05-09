@@ -1,0 +1,20 @@
+{
+  "name": "rnw-rsbuild",
+  "version": "1.0.0",
+  "description": "React Native for Web with Rust build",
+  "main": "src/index.ts",
+  "dependencies": {
+    "react": "18.2.*",
+    "react-dom": "18.2.*",
+    "react-native-web": "0.19.*",
+    "react-scripts": "3.3.0"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "0.6.11",
+    "@rsbuild/plugin-react": "0.6.11"
+  },
+  "scripts": {
+    "start": "rsbuild dev",
+    "build": "rsbuild build"
+  }
+}

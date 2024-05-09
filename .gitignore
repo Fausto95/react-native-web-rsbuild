@@ -1,0 +1,3 @@
+**/node_modules/
+.pnpm
+.DS_Store
