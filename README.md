@@ -2,6 +2,14 @@
 
 This is a simple example of a React Native Web project that uses RsBuild to build the app and Pnpm to manage the dependencies.
 
+### Stack
+- [RsBuild](https://rsbuild.dev/)
+- [React Native Web](https://necolas.github.io/react-native-web/)
+- [Pnpm](https://pnpm.io/)
+
+### Requirements
+- [Pnpm](https://pnpm.io/)
+
 ### How to run
 
 1. Clone the repository
