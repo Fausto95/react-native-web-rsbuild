@@ -10,9 +10,9 @@
     "react-scripts": "3.3.0"
   },
   "devDependencies": {
-    "@rsbuild/core": "0.6.11",
-    "@rsbuild/plugin-babel": "^0.6.13",
-    "@rsbuild/plugin-react": "0.6.11",
+    "@rsbuild/core": "1.1.13",
+    "@rsbuild/plugin-babel": "^1.0.3",
+    "@rsbuild/plugin-react": "1.1.0",
     "babel-plugin-react-native-web": "^0.19.11"
   },
   "scripts": {
